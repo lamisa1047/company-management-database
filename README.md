@@ -1,1 +1,1 @@
-# database-company
+# company-management-database
