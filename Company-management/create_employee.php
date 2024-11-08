@@ -36,7 +36,7 @@ if (isset($_POST['submit'])) {
 <body class="bg-gradient-to-r from-violet-700 via-fuchsia-800 to-indigo-900 flex justify-center items-center min-h-screen">
 
     <div class="bg-white p-8 rounded-lg shadow-lg w-[600px] h-[650px] flex flex-col justify-between">
-        <h2 class="text-3xl font-extrabold mb-6 text-center text-indigo-600">Add Employee</h2>
+        <h2 class="text-3xl font-extrabold mb-6 text-center text-indigo-600">New Employee Details</h2>
         <form action="" method="POST" class="space-y-4 flex-grow overflow-y-auto">
             <fieldset class="space-y-4">
                 <legend class="text-lg font-semibold text-gray-700 bg-gradient-to-r from-pink-400 to-purple-600 text-transparent bg-clip-text">Employee Information:</legend>

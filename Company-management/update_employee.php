@@ -13,7 +13,7 @@ if (isset($_POST['update'])) {
 
     if ($result === TRUE) {
         echo "<p class='text-green-500 font-bold'>Record updated successfully.</p>";
-        header('Location: view-employee.php');
+        header('Location: view_employee.php');
     } else {
         echo "<p class='text-red-500 font-bold'>Error: " . $sql . "<br>" . $conn->error . "</p>";
     }
